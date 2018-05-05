@@ -1,0 +1,206 @@
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta - catalog - KNN - 副本\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.1- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.3- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.5- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\a\Desktop\3D物体检索—数据库取值beta 2.8- catalog - KNN\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\a\Desktop\Ui测试板\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Administrator\Desktop\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Administrator\Desktop\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+G:\1633\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Tam\Desktop\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\目前大创4.26\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Tam\Desktop\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Tam\Desktop\毕业设计\beta2.8.1\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\featurenorm.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\毕业设计\6.8相关文档\程序\beta new - perfect\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\bin\x64\Debug\featurenorm.dll
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Tam\Desktop\beta new - perfect - 副本 (3)\3D物体检索—数据库取值beta\obj\x64\Debug\catalog3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb

@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\bin\Debug\3D物体检索—数据库取值beta.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\obj\Debug\3D物体检索—数据库取值beta.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\obj\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\obj\Debug\3D物体检索—数据库取值beta.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\obj\Debug\_3D物体检索_数据库取值beta.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\bin\Debug\3D物体检索—数据库取值beta.exe
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\bin\Debug\3D物体检索—数据库取值beta.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\bin\Debug\GetZernike.dll
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\bin\Debug\HGT.dll
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\bin\Debug\KNNLib.dll
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\bin\Debug\KNNLib.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\obj\Debug\3D物体检索—数据库取值beta.exe
+c:\users\administrator\documents\visual studio 2013\Projects\3D物体检索—数据库取值beta\3D物体检索—数据库取值beta\obj\Debug\3D物体检索—数据库取值beta.pdb

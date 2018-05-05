@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\bin\x86\Debug\KNNLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\bin\x86\Debug\KNNLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\obj\x86\Debug\KNNLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\obj\x86\Debug\KNNLib.pdb

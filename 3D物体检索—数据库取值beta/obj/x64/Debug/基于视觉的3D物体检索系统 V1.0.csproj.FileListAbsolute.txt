@@ -1,0 +1,30 @@
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\featurenorm.dll
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\基于视觉的3D物体检索系统 V1.0.csprojResolveAssemblyReference.cache
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\基于视觉的3D物体检索系统 V1.0.csproj.GenerateResource.Cache
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+C:\Users\Tam\Desktop\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.pdb
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\GetZernike.dll
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\HGT.dll
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.dll
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\bin\x64\Debug\KNNLib.pdb
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\基于视觉的3D物体检索系统 V1.0.csprojResolveAssemblyReference.cache
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Form1.resources
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\_3D物体检索_数据库取值beta.Properties.Resources.resources
+D:\杂项\3.8备份\121备份\10.17\软件著作权\基于视觉的3D物体检索系统\3D物体检索—数据库取值beta\obj\x64\Debug\基于视觉的3D物体检索系统 V1.0.csproj.GenerateResource.Cache
+D:\Proje\3Dr\3D物体检索—数据库取值beta\bin\x64\Debug\3D物体检索—数据库取值beta.exe.config
+D:\Proje\3Dr\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.exe
+D:\Proje\3Dr\3D物体检索—数据库取值beta\obj\x64\Debug\3D物体检索—数据库取值beta.pdb

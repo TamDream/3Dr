@@ -1,0 +1,49 @@
+C:\Users\Sucas\Desktop\11912883KNN\KNN\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\Sucas\Desktop\11912883KNN\KNN\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\Sucas\Desktop\11912883KNN\KNN\KNNLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sucas\Desktop\11912883KNN\KNN\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\Sucas\Desktop\11912883KNN\KNN\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\Sucas\Desktop\KNN\KNN\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\Sucas\Desktop\KNN\KNN\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\Sucas\Desktop\KNN\KNN\KNNLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sucas\Desktop\KNN\KNN\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\Sucas\Desktop\KNN\KNN\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\KNN\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\KNN\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\KNN\KNNLib\obj\Debug\KNNLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KNN\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\KNN\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\KNN - 副本\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\KNN - 副本\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\KNN - 副本\KNNLib\obj\Debug\KNNLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KNN - 副本\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\KNN - 副本\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\a\Desktop\KNN - 1.22\KNN - 1.22\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\a\Desktop\KNN - 1.22\KNN - 1.22\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\a\Desktop\KNN - 1.22\KNN - 1.22\KNNLib\obj\Debug\KNNLib.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\KNN - 1.22\KNN - 1.22\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\a\Desktop\KNN - 1.22\KNN - 1.22\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.22\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.22\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.22\KNNLib\obj\Debug\KNNLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.22\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.22\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.4-3.24\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.4-3.24\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.4-3.24\KNNLib\obj\Debug\KNNLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.4-3.24\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\KNN - 3.24 - 副本\KNN - 1.4-3.24\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\a\Desktop\KNN - 1.5-3.24\KNN - 1.5-3.24\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\a\Desktop\KNN - 1.5-3.24\KNN - 1.5-3.24\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\a\Desktop\KNN - 1.5-3.24\KNN - 1.5-3.24\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\a\Desktop\KNN - 1.5-3.24\KNN - 1.5-3.24\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\3D检索数据库版beta\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\3D检索数据库版beta\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\Administrator\Desktop\3D检索数据库版beta\KNNLib\obj\Debug\KNNLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3D检索数据库版beta\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\Administrator\Desktop\3D检索数据库版beta\KNNLib\obj\Debug\KNNLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\bin\Debug\KNNLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\bin\Debug\KNNLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\obj\Debug\KNNLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\obj\Debug\KNNLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\3D物体检索—数据库取值beta\KNNLib\obj\Debug\KNNLib.pdb
